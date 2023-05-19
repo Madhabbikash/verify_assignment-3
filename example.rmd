@@ -1,1 +1,3 @@
 I am working on the main branch.
+
+I am working on the current branch.
